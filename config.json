@@ -1,0 +1,13 @@
+{
+  "cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-",
+  "proxy": "user-rotate:pass@p.webshare.io:80",
+  "webhook": "https://discord.com/api/webhooks/...",
+
+  "sending": [
+    1647598632,
+    1647676420
+  ],
+  "receiving": [
+    124127383
+  ]
+}
